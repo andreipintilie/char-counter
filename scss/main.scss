@@ -1,0 +1,26 @@
+$textColor: #f0f0f0;
+$background: #262626;
+
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+textarea[id='textBox'] {
+  background: darken($background, 4%);
+  width: 100%;
+  color: $textColor;
+  padding: 5px;
+}
+
+h3,
+h1 {
+  color: $textColor;
+}
+
+body {
+  background-color: $background;
+  font-family: 'Montserrat', sans-serif;
+}

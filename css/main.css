@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+textarea[id='textBox'] {
+  background: #1c1c1c;
+  width: 100%;
+  color: #f0f0f0;
+  padding: 5px;
+}
+
+h3,
+h1 {
+  color: #f0f0f0;
+}
+
+body {
+  background-color: #262626;
+  font-family: 'Montserrat', sans-serif;
+}
+/*# sourceMappingURL=main.css.map */
